@@ -57,6 +57,7 @@ My username and current rank:
   - [Remove a Specific Element of an Array](./Python/6%20kyu/Remove%20a%20Specific%20Element%20of%20an%20Array)
   - [Total Primes](./Python/6%20kyu/Total%20Primes)
   - [Vasya - Clerk](./Python/6%20kyu/Vasya%20-%20Clerk)
+  - [Prime Product - 303](./Python/6%20kyu/Prime%20Product%20-%20303)
 
 
 ### [SQL](./SQL)
