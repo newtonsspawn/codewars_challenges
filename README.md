@@ -34,6 +34,7 @@ My username and current rank:
   - [Nesting Structure Comparison](./Python/4%20kyu/Nesting%20Structure%20Comparison)
   - [Twice Linear](./Python/4%20kyu/Twice%20Linear)
   - [Strings Mix](./Python/4%20kyu/Strings%20Mix)
+  - [Range Extraction](./Python/4%20kyu/Range%20Extraction)
 
 
 ### [SQL](./SQL)
