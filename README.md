@@ -52,6 +52,8 @@ My username and current rank:
   - [Scramblies](./Python/5%20kyu/Scramblies)
   - [Human Readable Time](./Python/5%20kyu/Human%20Readable%20Time)
   - [Factorial Decomposition](./Python/5%20kyu/Factorial%20Decomposition)
+- [6 kyu](./Python/6%20kyu)
+  - [Decode the Morse Code I of III](./Python/6%20kyu/Decode%20the%20Morse%20Code%20I%20of%20III)
 
 
 ### [SQL](./SQL)
