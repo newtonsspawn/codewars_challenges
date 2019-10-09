@@ -121,3 +121,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/test_iterator.py
+/Python/5 kyu/__init__.py
+/Python/6 kyu/__init__.py
+/Python/__init__.py
+/Python/7 kyu/__init__.py
+/Python/4 kyu/__init__.py
+/Python/3 kyu/__init__.py
