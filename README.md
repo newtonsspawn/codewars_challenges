@@ -61,3 +61,6 @@ My username and current rank:
 
 
 ### [SQL](./SQL)
+
+- [6 kyu](./SQL/6%20kyu)
+  - [SQL Basics - Simple HAVING](./SQL/6%20kyu/SQL%20Basics%20-%20Simple%20HAVING)
