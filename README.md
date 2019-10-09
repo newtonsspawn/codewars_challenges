@@ -66,3 +66,4 @@ My username and current rank:
   - [SQL Basics: Simple HAVING](./SQL/6%20kyu/SQL%20Basics%20-%20Simple%20HAVING)
   - [SQL Basics: Simple IN](./SQL/6%20kyu/SQL%20Basics%20-%20Simple%20IN)
   - [SQL Basics: Simple EXISTS](./SQL/6%20kyu/SQL%20Basics%20-%20Simple%20EXISTS)
+  - [SQL Basics: Simple UNION ALL](./SQL/6%20kyu/SQL%20Basics%20-%20Simple%20UNION%20ALL)
