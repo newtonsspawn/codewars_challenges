@@ -39,6 +39,7 @@ My username and current rank:
   - [The Observed PIN](./Python/4%20kyu/The%20Observed%20PIN)
   - [Sudoku Solution Validator](./Python/4%20kyu/Sudoku%20Solution%20Validator)
   - [Snail](./Python/4%20kyu/Snail)
+  - [Next Smaller Number With the Same Digits](./Python/4%20kyu/Next%20Smaller%20Number%20With%20the%20Same%20Digits)
 
 
 ### [SQL](./SQL)
