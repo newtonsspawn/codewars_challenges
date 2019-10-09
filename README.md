@@ -50,6 +50,7 @@ My username and current rank:
   - [Greed is Good](./Python/5%20kyu/Greed%20is%20Good)
   - [Merged String Checker](./Python/5%20kyu/Merged%20String%20Checker)
   - [Scramblies](./Python/5%20kyu/Scramblies)
+  - [Human Readable Time](./Python/5%20kyu/Human%20Readable%20Time)
 
 
 ### [SQL](./SQL)
