@@ -22,6 +22,7 @@ My username and current rank:
   - [Evaluate Mathematical Expression](./Python/2%20kyu/Evaluate%20Mathematical%20Expression)
 - [3 kyu](./Python/3%20kyu)
   - [Last Digit of a Huge Number](./Python/3%20kyu/Last%20Digit%20of%20a%20Huge%20Number)
+  - [Sudoku Solver](./Python/3%20kyu/Sudoku%20Solver)
 
 
 ### [SQL](./SQL)
