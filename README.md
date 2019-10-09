@@ -38,6 +38,7 @@ My username and current rank:
   - [Strip Comments](./Python/4%20kyu/Strip%20Comments)
   - [The Observed PIN](./Python/4%20kyu/The%20Observed%20PIN)
   - [Sudoku Solution Validator](./Python/4%20kyu/Sudoku%20Solution%20Validator)
+  - [Snail](./Python/4%20kyu/Snail)
 
 
 ### [SQL](./SQL)
