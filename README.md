@@ -26,6 +26,7 @@ My username and current rank:
   - [The Millionth Fibonacci Kata](./Python/3%20kyu/The%20Millionth%20Fibonacci%20Kata)
   - [Battleship Field Validator](./Python/3%20kyu/Battleship%20Field%20Validator)
   - [Calculator](./Python/3%20kyu/Calculator)
+  - [Binomial Expansion](./Python/3%20kyu/Binomial%20Expansion)
 
 
 ### [SQL](./SQL)
