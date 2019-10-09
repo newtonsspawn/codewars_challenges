@@ -45,6 +45,8 @@ My username and current rank:
   - [Permutations](./Python/4%20kyu/Permutations)
   - [Ten-Pin Bowling](./Python/4%20kyu/Ten-Pin%20Bowling)
   - [Human Readable Duration Format](./Python/4%20kyu/Human%20Readable%20Duration%20Format)
+- [5 kyu](./Python/5%20kyu)
+  - [Common Denominators](./Python/5%20kyu/Common%20Denominators)
 
 
 ### [SQL](./SQL)
