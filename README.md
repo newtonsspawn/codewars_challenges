@@ -42,6 +42,7 @@ My username and current rank:
   - [Next Smaller Number With the Same Digits](./Python/4%20kyu/Next%20Smaller%20Number%20With%20the%20Same%20Digits)
   - [Most Frequently Used Words in a Text](./Python/4%20kyu/Most%20Frequently%20Used%20Words%20in%20a%20Text)
   - [Sum of Intervals](./Python/4%20kyu/Sum%20of%20Intervals)
+  - [Permutations](./Python/4%20kyu/Permutations)
 
 
 ### [SQL](./SQL)
