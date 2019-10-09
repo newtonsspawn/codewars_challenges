@@ -24,4 +24,4 @@ My username and current rank:
   - [Last Digit of a Huge Number](./Python/3%20kyu/Last%20Digit%20of%20a%20Huge%20Number)
 
 
-#### SQL
+#### [SQL](./SQL)
