@@ -17,3 +17,4 @@ My username and current rank:
   - Symbolic Differentiation of Prefix Expressions
   - Simpler Interactive Interpreter (REPL)
   - Insane Coloured Triangles
+  - Evaluate Mathematical Expression
