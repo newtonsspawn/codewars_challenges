@@ -49,6 +49,7 @@ My username and current rank:
   - [Common Denominators](./Python/5%20kyu/Common%20Denominators)
   - [Greed is Good](./Python/5%20kyu/Greed%20is%20Good)
   - [Merged String Checker](./Python/5%20kyu/Merged%20String%20Checker)
+  - [Scramblies](./Python/5%20kyu/Scramblies)
 
 
 ### [SQL](./SQL)
