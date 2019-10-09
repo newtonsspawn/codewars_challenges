@@ -29,6 +29,8 @@ My username and current rank:
   - [Binomial Expansion](./Python/3%20kyu/Binomial%20Expansion)
   - [The Lift](./Python/3%20kyu/The%20Lift)
   - [Alphabetic Anagrams](./Python/3%20kyu/Alphabetic%20Anagrams)
+- [4 kyu](./Python/4%20kyu)
+  - [Catching Car Mileage Numbers](./Python/4%20kyu/Catching%20Car%20Mileage%20Numbers)
 
 
 ### [SQL](./SQL)
