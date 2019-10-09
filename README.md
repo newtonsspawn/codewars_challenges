@@ -55,6 +55,7 @@ My username and current rank:
 - [6 kyu](./Python/6%20kyu)
   - [Decode the Morse Code I of III](./Python/6%20kyu/Decode%20the%20Morse%20Code%20I%20of%20III)
   - [Remove a Specific Element of an Array](./Python/6%20kyu/Remove%20a%20Specific%20Element%20of%20an%20Array)
+  - [Total Primes](./Python/6%20kyu/Total%20Primes)
 
 
 ### [SQL](./SQL)
