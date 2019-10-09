@@ -14,7 +14,7 @@ My username and current rank:
 #### Python
 
 - 1 kyu
-  - [Become Immortal](./Python/1 kyu/Become Immortal)
+  - [Become Immortal](./Python/1%20kyu/Become%20Immortal)
 - 2 kyu
   - Symbolic Differentiation of Prefix Expressions
   - Simpler Interactive Interpreter (REPL)
