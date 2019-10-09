@@ -15,3 +15,4 @@ My username and current rank:
 
 - 2 kyu
   - Symbolic Differentiation of Prefix Expressions
+  - Simpler Interactive Interpreter (REPL)
