@@ -36,6 +36,7 @@ My username and current rank:
   - [Strings Mix](./Python/4%20kyu/Strings%20Mix)
   - [Range Extraction](./Python/4%20kyu/Range%20Extraction)
   - [Strip Comments](./Python/4%20kyu/Strip%20Comments)
+  - [The Observed PIN](./Python/4%20kyu/The%20Observed%20PIN)
 
 
 ### [SQL](./SQL)
