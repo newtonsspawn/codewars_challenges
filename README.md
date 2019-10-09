@@ -16,7 +16,7 @@ My username and current rank:
 - 1 kyu
   - [Become Immortal](./Python/1%20kyu/Become%20Immortal)
 - 2 kyu
-  - Symbolic Differentiation of Prefix Expressions
+  - [Symbolic Differentiation of Prefix Expressions](./Python/2%20kyu/Symbolic%20Differentiationof%20Prefix%20Expressions)
   - Simpler Interactive Interpreter (REPL)
   - Insane Coloured Triangles
   - Evaluate Mathematical Expression
