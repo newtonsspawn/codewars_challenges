@@ -27,6 +27,7 @@ My username and current rank:
   - [Battleship Field Validator](./Python/3%20kyu/Battleship%20Field%20Validator)
   - [Calculator](./Python/3%20kyu/Calculator)
   - [Binomial Expansion](./Python/3%20kyu/Binomial%20Expansion)
+  - [The Lift](./Python/3%20kyu/The%20Lift)
 
 
 ### [SQL](./SQL)
