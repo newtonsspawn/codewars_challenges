@@ -20,3 +20,8 @@ My username and current rank:
   - Simpler Interactive Interpreter (REPL)
   - Insane Coloured Triangles
   - Evaluate Mathematical Expression
+- 3 kyu
+  - Last Digit of a Huge Number
+
+
+#### SQL
