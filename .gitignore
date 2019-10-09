@@ -119,6 +119,9 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# PyCharm files
+.idea/
+
 # Pyre type checker
 .pyre/
 /test_iterator.py
@@ -138,3 +141,29 @@ dmypy.json
 /Python/6 kyu/Total Primes/gettotalprimes_01.py
 /Python/6 kyu/Prime Product - 303/primeproduct_01.py
 /Python/6 kyu/Prime Product - 303/primeproduct_02.py
+/Python/7 kyu/Find the Speedcuber's Times/cubetimes.py
+/Python/7 kyu/Find the Speedcuber's Times/instructions.md
+/Python/7 kyu/Growth of a Population/populationgrowth.py
+/Python/7 kyu/Growth of a Population/populationgrowth_test.py
+/Python/3 kyu/Prime Streaming (PG-13)/instructions.md
+/Python/3 kyu/Prime Streaming (PG-13)/primes.py
+/Python/3 kyu/Prime Streaming (PG-13)/test_verify.py
+/Python/5 kyu/Find the Smallest/instructions.md
+/Python/5 kyu/Find the Smallest/smallest.py
+/Python/5 kyu/Find the Smallest/test_smallest.py
+/Python/5 kyu/Total Primes - Advanced Version/instructions.md
+/Python/5 kyu/Total Primes - Advanced Version/primes_to_600.py
+/Python/5 kyu/Total Primes - Advanced Version/test_totalprimes.py
+/Python/5 kyu/Total Primes - Advanced Version/totalprimes_01.py
+/Python/5 kyu/Total Primes - Advanced Version/totalprimes_02.py
+/Python/4 kyu/All Balanced Parentheses/balancedparens.py
+/Python/4 kyu/All Balanced Parentheses/instructions.md
+/Python/4 kyu/All Balanced Parentheses/test_balanced_parens.py
+/Python/4 kyu/Decode the Morse Code II of III/decodeBits.py
+/Python/4 kyu/Decode the Morse Code II of III/instructions.md
+/Python/4 kyu/Decode the Morse Code II of III/morse_code.py
+/Python/4 kyu/Decode the Morse Code II of III/test.ipynb
+/Python/4 kyu/Decode the Morse Code II of III/test_decodeBits.py
+/Python/4 kyu/Recover a Secret String from Random Triplets/instructions.md
+/Python/4 kyu/Recover a Secret String from Random Triplets/test_recoverSecret.py
+/Python/4 kyu/Recover a Secret String from Random Triplets/recoversecret.py
