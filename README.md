@@ -51,6 +51,7 @@ My username and current rank:
   - [Merged String Checker](./Python/5%20kyu/Merged%20String%20Checker)
   - [Scramblies](./Python/5%20kyu/Scramblies)
   - [Human Readable Time](./Python/5%20kyu/Human%20Readable%20Time)
+  - [Factorial Decomposition](./Python/5%20kyu/Factorial%20Decomposition)
 
 
 ### [SQL](./SQL)
