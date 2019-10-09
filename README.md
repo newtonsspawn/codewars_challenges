@@ -11,7 +11,7 @@ My username and current rank:
 ## Contents
 
 
-#### [Python](./Python)
+### [Python](./Python)
 
 - [1 kyu](./Python/1%20kyu)
   - [Become Immortal](./Python/1%20kyu/Become%20Immortal)
@@ -24,4 +24,4 @@ My username and current rank:
   - [Last Digit of a Huge Number](./Python/3%20kyu/Last%20Digit%20of%20a%20Huge%20Number)
 
 
-#### [SQL](./SQL)
+### [SQL](./SQL)
