@@ -43,6 +43,7 @@ My username and current rank:
   - [Most Frequently Used Words in a Text](./Python/4%20kyu/Most%20Frequently%20Used%20Words%20in%20a%20Text)
   - [Sum of Intervals](./Python/4%20kyu/Sum%20of%20Intervals)
   - [Permutations](./Python/4%20kyu/Permutations)
+  - [Ten-Pin Bowling](./Python/4%20kyu/Ten-Pin%20Bowling)
 
 
 ### [SQL](./SQL)
