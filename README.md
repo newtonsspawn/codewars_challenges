@@ -24,6 +24,7 @@ My username and current rank:
   - [Last Digit of a Huge Number](./Python/3%20kyu/Last%20Digit%20of%20a%20Huge%20Number)
   - [Sudoku Solver](./Python/3%20kyu/Sudoku%20Solver)
   - [The Millionth Fibonacci Kata](./Python/3%20kyu/The%20Millionth%20Fibonacci%20Kata)
+  - [Battleship Field Validator](./Python/3%20kyu/Battleship%20Field%20Validator)
 
 
 ### [SQL](./SQL)
