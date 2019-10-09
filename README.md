@@ -47,6 +47,7 @@ My username and current rank:
   - [Human Readable Duration Format](./Python/4%20kyu/Human%20Readable%20Duration%20Format)
 - [5 kyu](./Python/5%20kyu)
   - [Common Denominators](./Python/5%20kyu/Common%20Denominators)
+  - [Greed is Good](./Python/5%20kyu/Greed%20is%20Good)
 
 
 ### [SQL](./SQL)
