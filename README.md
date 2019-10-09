@@ -6,7 +6,7 @@ programming language and difficulty (kyu).
 
 My username and current rank:
 
-![Profile Badge](https://www.codewars.com/users/newtonsspawn/badges/small)
+![Profile Badge](https://www.codewars.com/users/newtonsspawn/badges/large)
 
 ## Contents
 
