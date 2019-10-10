@@ -75,4 +75,5 @@ My username and current rank:
   - [SQL Basics: Simple WITH](./SQL/6%20kyu/SQL%20Basics%20-%20Simple%20WITH)
   - [SQL Bug Fixing: Fix the JOIN](./SQL/6%20kyu/SQL%20Bug%20Fixing%20-%20Fix%20the%20JOIN)
   - [SQL Basics: Simple NULL handling](./SQL/6%20kyu/SQL%20Basics%20-%20Simple%20NULL%20handling)
+  - [Conditional Count](./SQL/6%20kyu/Conditional%20Count)
   
