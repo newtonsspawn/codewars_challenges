@@ -69,4 +69,5 @@ My username and current rank:
   - [SQL Basics: Simple UNION ALL](./SQL/6%20kyu/SQL%20Basics%20-%20Simple%20UNION%20ALL)
   - [SQL Basics: Top 10 Customers by Total Payments Amount](./SQL/6%20kyu/SQL%20Basics%20-%20Top%2010%20Customers%20by%20Total%20Payments%20Amount)
   - [SQL Basics: Simple JOIN and RANK](./SQL/6%20kyu/SQL%20Basics%20-%20Simple%20JOIN%20and%20RANK)
+  - [SQL Basics - Monsters using CASE](./SQL/6%20kyu/SQL%20Basics%20-%20Monsters%20using%20CASE)
   
