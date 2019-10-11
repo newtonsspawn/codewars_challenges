@@ -77,4 +77,5 @@ My username and current rank:
   - [SQL Basics: Simple NULL handling](./SQL/6%20kyu/SQL%20Basics%20-%20Simple%20NULL%20handling)
   - [Conditional Count](./SQL/6%20kyu/Conditional%20Count)
   - [Calculating Batting Average](./SQL/6%20kyu/Calculating%20Batting%20Average)
+  - [SQL Basics: Create a FUNCTION (DATES)](./SQL/6%20kyu/SQL%20Basics%20-%20Create%20a%20FUNCTION%20(DATES))
   
