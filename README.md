@@ -62,6 +62,8 @@ My username and current rank:
 
 ### [SQL](./SQL)
 
+- [3 kyu](SQL/3%20kyu)
+  - [Challenge: Transpose Two-Dimensional Arrays](SQL/3%20kyu/Challenge%20-%20Transpose%20Two-Dimensional%20Arrays)
 - [4 kyu](SQL/4%20kyu)
   - [Calculating Month-Over-Month Percentage Growth Rate](SQL/4%20kyu/Calculating%20Month-Over-Month%20Percentage%20Growth%20Rate)
   - [Challenge: Two Actors Who Cast Together the Most](SQL/4%20kyu/Challenge%20-%20Two%20Actors%20Who%20Cast%20Together%20the%20Most)
