@@ -62,6 +62,8 @@ My username and current rank:
 
 ### [SQL](./SQL)
 
+- [4 kyu](SQL/4%20kyu)
+  - [Calculating Month-Over-Month Percentage Growth Rate](SQL/4%20kyu/Calculating%20Month-Over-Month%20Percentage%20Growth%20Rate)
 - [5 kyu](./SQL/5%20kyu)
   - [Relational Division: Find All Movies Two Actors Cast in Together](SQL/5%20kyu/Relational%20Division%20-%20Find%20All%20Movies%20Two%20Actors%20Cast%20in%20Together)
   - [SQL Basics: Group By Day](SQL/5%20kyu/SQL%20Basics%20-%20Group%20By%20Day)
