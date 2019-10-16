@@ -70,6 +70,7 @@ My username and current rank:
   - [SQL Basics: Group By Day](SQL/5%20kyu/SQL%20Basics%20-%20Group%20By%20Day)
   - [SQL Statistics - MIN, MEDIAN, MAX](SQL/5%20kyu/SQL%20Statistics%20-%20MIN%2C%20MEDIAN%2C%20MAX)
   - [Calculating Running Total](SQL/5%20kyu/Calculating%20Running%20Total)
+  - [SQLonacci Sequence](SQL/5%20kyu/SQLonacci%20Sequence)
 - [6 kyu](./SQL/6%20kyu)
   - [SQL Basics: Simple HAVING](./SQL/6%20kyu/SQL%20Basics%20-%20Simple%20HAVING)
   - [SQL Basics: Simple IN](./SQL/6%20kyu/SQL%20Basics%20-%20Simple%20IN)
